@@ -43,8 +43,8 @@ public class JavaApplication24 {
         System.out.println("numero3=" +numero3);
         System.out.println("numero4=" +numero4);
         System.out.println("El promedio es:" +promedio);
-        System.out.println("El promedio es:" +minimoreal);
-        System.out.println("El promedio es:" +maximoreal);
+        System.out.println("El minimo numero  es:" +minimoreal);
+        System.out.println("El maximo numero  es:" +maximoreal);
          
         
        
